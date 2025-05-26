@@ -74,13 +74,12 @@ const config: Config = {
       items: [
         {
           to: '/docs/intro',
-          activeBasePath: 'docs',         
           position: 'left',
           label: 'Getting Started',
         },
+        {to: 'blog', label: 'Blog', position: 'left'}, 
         {
           to: '/docs/contribute',
-          activeBasePath: 'docs',         
           position: 'left',
           label: 'How to Contribute?',
         },
@@ -115,10 +114,15 @@ const config: Config = {
         }, */
         {
           to: '/docs/about',
-          activeBasePath: 'docs',         
           position: 'left',
           label: 'About Me',
         },
+/*
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+        */
         {
           href: 'https://github.com/nemo97/Janar-Icche-Jiggasha',
           position: 'right',
