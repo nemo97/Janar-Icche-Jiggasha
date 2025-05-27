@@ -12,6 +12,8 @@ Welcome to this blog. This blog is created with [**Docusaurus 2**](https://docus
 
 <!-- truncate -->
 
-This is my first post on Docusaurus 2.
+This is my first post on Docusaurus 2. Benga
 
 A whole bunch of exploration to follow.
+
+test bengali

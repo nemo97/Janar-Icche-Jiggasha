@@ -26,7 +26,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en','bn'],
   },
   markdown: {
     mermaid: true,
@@ -80,7 +80,7 @@ const config: Config = {
           position: 'left',
           label: 'Getting Started',
         },
-        {to: 'blog', label: 'Blog', position: 'left'}, 
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
           to: '/docs/contribute',
           position: 'left',
@@ -120,12 +120,11 @@ const config: Config = {
           position: 'left',
           label: 'About Me',
         },
-/*
+
         {
           type: 'localeDropdown',
           position: 'right',
         },
-        */
         {
           href: 'https://github.com/nemo97/Janar-Icche-Jiggasha',
           position: 'right',
