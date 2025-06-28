@@ -1,14 +1,16 @@
 # Introduction
-First and foremost, studying is not an easy task. It requires determination, persistence, and hard work. Think of it as a marathon rather than a 100-meter sprint. The internet, being an ocean of information, can provide what you are looking for, but only if you invest significant time and energy. This site has been created to assist and guide students who wish to pursue self-study.
+Studying isn’t easy—it takes determination, persistence, and a lot of hard work. Think of it more like running a marathon than a quick sprint. There’s a ton of information online, but getting real results takes time and effort. This site is here to help and guide students who want to learn on their own and build the technical skills they’ll need for work.
 
-This guide
+Technical skills are useful throughout your life and matter no matter what field you end up in.
 
-```mermaid
-graph TD;
-    A(( If you are studying less than))-->B;
-    B-->C;
-    C-->D;
-```
+Many students in rural areas face challenges in understanding English, which can limit their access to educational resources and opportunities. We recommend starting early to build proficiency in English, as it will open doors to a wider range of materials and experiences.
+
+We have many topics planned for the future. Please let us know which subjects interest you most so we can prioritize them accordingly. Please send me email at subhas.work@gmail.com
+
+
+
+
+
 
 
 

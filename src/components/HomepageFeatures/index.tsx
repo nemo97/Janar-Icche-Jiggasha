@@ -59,6 +59,14 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
+        <div>
+          <Heading as="h2" className="text--center">
+            Our Mission
+          </Heading>
+          <p className="text--center">
+            We are committed to building a community that supports one another in becoming self-sufficient learners. Our focus is on developing the most essential skills and providing meaningful opportunities for growth.
+          </p>
+        </div>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />

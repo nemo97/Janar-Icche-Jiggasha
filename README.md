@@ -11,6 +11,7 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 - VsCode for IDE, you can use any other IDE if you want.
 - Git tool - this is required for git repository
 - Checkout forked repository to your workspace
+- Crete Pull Request
 
 
 ### Installation

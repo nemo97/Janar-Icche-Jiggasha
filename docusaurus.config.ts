@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'জানার ইচ্ছা জিঙ্গাসা',
-  tagline: '"The roots of education are bitter, but the fruit is sweet." – Aristotle',
+  tagline: '"Intelligence plus character — that is the goal of true education." — Martin Luther King Jr.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
