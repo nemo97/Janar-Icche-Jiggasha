@@ -1,28 +1,12 @@
 # Introduction
-First and foremost, studying is not an easy task. It requires determination, persistence, and hard work. Think of it as a marathon rather than a 100-meter sprint. The internet, being an ocean of information, can provide what you are looking for, but only if you invest significant time and energy. This site has been created to assist and guide students who wish to pursue self-study.
+Studying isn’t easy—it takes determination, persistence, and a lot of hard work. Think of it more like running a marathon than a quick sprint. There’s a ton of information online, but getting real results takes time and effort. This site is here to help and guide students who want to learn on their own and build the technical skills they’ll need for work.
 
-Here is an overview of the typical educational path followed by students from rural areas. Click on the corresponding link to navigate to a specific section.
+Technical skills are useful throughout your life and matter no matter what field you end up in.
 
-```mermaid
-flowchart TD
+Many students in rural areas face challenges in understanding English, which can limit their access to educational resources and opportunities. We recommend starting early to build proficiency in English, as it will open doors to a wider range of materials and experiences.
 
-A[<a href="#8th-grade">8th Grade</a> ] -->B(10th Grade) 
-B --> C{Decision}
-C --> D[12th Grade - Science]
-C --> E[12th Grade - Arts]
-C --> F[12th Grade - Commerce]
-D --> G[Bachelor - Engineering]
-D --> H[Bachelor - Medical]
-D --> I[Bachelor - General Graduate with Major Biology,Physics,Computer Science, IT,..]
-```
-<section id="8th-grade">
-## 8th Grade
-If you are studying in 8th grade or below, the primary objective should be to thoroughly understand, internalize, and regularly practice the material being taught in school.
+We have many topics planned for the future. Please let us know which subjects interest you most so we can prioritize them accordingly. Please send me email at subhas.work@gmail.com
 
-To assess academic progress in comparison to international curricula, students are encouraged to register on [**Khan Academy**](https://www.khanacademy.org/). This will help identify any learning gaps, with support from parents as needed.
-
-
-</section>
 
 
 
